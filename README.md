@@ -1,11 +1,9 @@
 ## Bem-vindo(a) ao perfil do rggomes2026-design 😁
 
-<div>
-  <a href="https://github.com/rggomes2026-design">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rggomes2026-design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rggomes2026-design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rggomes2026-design&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+</p>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
